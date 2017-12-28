@@ -1,1 +1,2 @@
-# MicroServicesConfigData
+---
+lucky-word : my lucky word
